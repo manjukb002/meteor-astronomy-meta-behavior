@@ -16,8 +16,7 @@ updatedByFieldName: 'updatedBy'
 Simple Usage:
 ```
 behaviors: {
-  meta: {
-  }
+  meta: {}
 }
 ```
 
