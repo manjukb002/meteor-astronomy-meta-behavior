@@ -9,11 +9,11 @@ hasUpdatedAtField: true,
 hasUpdatedByField: true,
 createdAtFieldName: 'createdAt',
 createdByFieldName: 'createdBy',
-updatedAtFieldName: 'upadtedAt',
-updatedByFieldName: 'upadtedBy'
+updatedAtFieldName: 'updatedAt',
+updatedByFieldName: 'updatedBy'
 ```
 
-Simple Usage: 
+Simple Usage:
 ```
 behaviors: {
   meta: {

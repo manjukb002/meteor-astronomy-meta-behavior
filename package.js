@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'jagi:astronomy-meta-behavior',
+  name: 'settlin:astronomy-meta-behavior',
   version: '2.0.0',
   summary: 'Meta behavior for Meteor Astronomy',
   git: 'https://github.com/settlin/meteor-astronomy-meta-behavior.git'
